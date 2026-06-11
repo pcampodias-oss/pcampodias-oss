@@ -52,9 +52,8 @@ Abertura e configuração de sistemas para novos clientes, tratamento e processa
 ---
 
 ## 📬 Contato
-https://www.linkedin.com/in/patr%C3%ADcia-campos-dias-1b350822/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BXqkFqdyrQLyUvKv%2BkWPUYA%3D%3D
-
-E-mail: pcampodias@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patricia-campos-dias-1b350822)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:pcampodias@gmail.com)
 
 ---
 
