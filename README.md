@@ -1,5 +1,3 @@
-# patricia_campos_dados
-Portifólio de análise de dados
 # Olá! Sou a Patrícia Campos Dias 👋
 
 **Analista de Dados | SQL · Power BI · Fintech**  
