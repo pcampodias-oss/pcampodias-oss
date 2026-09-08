@@ -41,7 +41,7 @@ Meu dia a dia sempre envolveu dados: validação, tratamento, relatórios gerenc
 
 ## 💼 Experiência
 
-**Analista de Implementação** · SalaryFits (Grupo Serasa Experian) · 2022–presente  
+**Analista de Implementação** · Serasa Experian Soluções para RH · 2022–presente  
 Abertura e configuração de sistemas para novos clientes, tratamento e processamento de dados de benefícios corporativos, elaboração de relatórios gerenciais em MySQL.
 
 **Analista de Produção / Negócios / Suporte** · Zetra Sistemas · 2010–2022  
