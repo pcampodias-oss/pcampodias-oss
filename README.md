@@ -50,8 +50,7 @@ Abertura e configuração de sistemas para novos clientes, tratamento e processa
 ---
 
 ## 📬 Contato
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/patrícia-campos-dias-1b350822)
----
+LinkedIn: https://www.linkedin.com/in/patrícia-campos-dias-1b350822 </br>
 Email: pcampodias@gmail.com
 
 ---
