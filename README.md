@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Analista com mais de 15 anos de experiência em tecnologia e dados, atuando em empresas de gestão de crédito consignado e benefícios corporativos.
+Analista com mais de 15 anos de experiência em tecnologia e dados, atuando em empresa de gestão de crédito consignado, benefícios corporativos e soluções para RH's.
 
 Meu dia a dia sempre envolveu dados: validação, tratamento, relatórios gerenciais em SQL e resolução de inconsistências complexas. Hoje estou em transição formal para a área de Análise de Dados, construindo este portfólio para tornar visível o que já faço na prática.
 
